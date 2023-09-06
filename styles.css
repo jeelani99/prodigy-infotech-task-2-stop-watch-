@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #bd1aefa6;
+  }
+  
+  .stopwatch {
+    text-align: center;
+    color: #046e2d;
+  }
+  
+  button {
+    padding: 32px 64px;
+    margin: 15px;
+    font-size: 32px;
+    background-color: cyan;
+  }
+  

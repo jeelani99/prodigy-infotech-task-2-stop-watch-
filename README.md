@@ -1,1 +1,22 @@
 # prodigy-infotech-task-2-stop-watch-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Task 2 Stopwatch web application</title>
+</head>
+<body>
+    <div>
+        <!-- <p><pre>TASK-2 STOPWATCH WEB-APPLICATION </pre></p> -->
+    </div>
+  <div class="stopwatch">
+    <span id="display">00:00:00</span>
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+    <button id="reset">Reset</button>
+  </div>
+  <script src="Javascript.js"></script>
+</body>
+</html>
